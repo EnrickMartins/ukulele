@@ -58,5 +58,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Make your own changes (More info soon)
 - Change code
 - `./gradlew clean build`
-
-
